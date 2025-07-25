@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Local apps
-    'core.apps.CoreConfig',
+    'Portfolio.apps.PortfolioConfig',
 ]
 
 REST_FRAMEWORK = {
